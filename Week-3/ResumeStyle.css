@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+   /* background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg);*/
+}
+#t1{
+    background-color: bisque;
+    font-size: 24px;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#d1{
+    float:left;
+    width:50%;
+    height:30%;
+}
+#d2{
+    float:right;
+    width:50%;
+    height:30%;
+}
